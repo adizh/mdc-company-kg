@@ -54,7 +54,7 @@ export default {
   whitepaper: "Белая бумага",
   subsribe: "Подписаться",
   pitchDeck: "Питч-дек",
-  address: "Казахстан, 050057, Алматы, ул. Мынбаева, 53",
+  address: "г.Бишкек, ул.Токтоналиева 46",
 
  
   aboutUs: "О нас",
